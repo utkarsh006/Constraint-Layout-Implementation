@@ -6,3 +6,4 @@
 
 - Read Article [HERE](https://www.geeksforgeeks.org/constraintlayout-in-android/)
 - To define a view's position in ConstraintLayout, you must add at least one horizontal and one vertical constraint for the view. 
+- [Motion Layout](https://www.section.io/engineering-education/how-to-implement-motion-layout-animation-in-android-studio/)
